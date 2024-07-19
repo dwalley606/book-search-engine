@@ -22,7 +22,7 @@ A full MERN stack application to search for and save your favorite books with Go
 
 1. Clone the repository to your local machine.
 2. Navigate to the root directory and run `npm install` to install all dependencies.
-3. Run `npm start` to start the application.
+3. Run `npm run develop` to start the application locally.
 
 ## Usage
 
