@@ -6,6 +6,10 @@
 
 A full MERN stack application to search for and save your favorite books with Google Books API.
 
+##Screenshot
+
+![screenshot](https://github.com/user-attachments/assets/4ce1a14b-7aa5-4aed-9d8e-d82705517863)
+
 ## Table of Contents
 
 1. [Installation](#installation)
